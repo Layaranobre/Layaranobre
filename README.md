@@ -37,7 +37,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Layaranobre&show_icons=true&theme=tokyonight" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layaranobre&layout=compact&theme=tokyonight" />
