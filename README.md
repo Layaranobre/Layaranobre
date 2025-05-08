@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou a Layara Nobre</h1>
+<h1 align="center">Olá!👋 me chamo Layara Nobre</h1>
 
 <p align="center">
   💻 Desenvolvedor Frond-end | 🚀 Apaixonado por tecnologia e inovação
