@@ -1,7 +1,7 @@
 <h1 align="center">Olá!👋 me chamo Layara Nobre</h1>
 
 <p align="center">
-  💻 Desenvolvedor Frond-end | 🚀 Apaixonado por tecnologia e inovação
+  💻 Desenvolvedor Frond-end Junior | 🚀 Apaixonado por tecnologia e inovação
 </p>
 
 <br>
@@ -11,7 +11,7 @@
 Sou Desenvolvedora Front-end Júnior, com foco em Javascript e com experiência no desenvolvimento de interfaces<br>
 modernas, funcionais e responsivas. Fiz a construção de alguns projetos, aplicando boas práticas de código e foco<br>
 na experiência do usuário. Atuo também como Designer de marketing digital, com foco em criação de conteudos para<br>
-redes sociais, com o objetivo de atrair mais clientes para empresas.
+redes sociais, com o objetivo de atrair mais clientes para empresas. Atualmente estou estudando me tornar desenvolvedora Fullstack.
 
 ### 📫 Onde me encontrar:        
 <a href="https://seulink.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
