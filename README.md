@@ -1,7 +1,7 @@
 <h1 align="center">Olá!👋 me chamo Layara Nobre</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack em formação | 🚀 Apaixonado por tecnologia e inovação
+  💻 Engenheira de software em formação | 🚀 Apaixonado por tecnologia e inovação
 </p>
 
 <br>
