@@ -8,10 +8,10 @@
 
 ### Sobre mim
 
-Sou Desenvolvedora Full Stack em formação, com foco em JavaScript e Java e com experiência no desenvolvimento de interfaces<br>
+Engenheira de software em formação, com foco em JavaScript e Java e com experiência no desenvolvimento de interfaces<br>
 modernas, funcionais e responsivas. Fiz a construção de alguns projetos, aplicando boas práticas de código e foco<br>
 na experiência do usuário. Atuo também como Designer de marketing digital, com foco em criação de conteudos para<br>
-redes sociais, com o objetivo de atrair mais clientes para empresas. Atualmente estou estudando me tornar desenvolvedora Fullstack.
+redes sociais, com o objetivo de atrair mais clientes para empresas. Atualmente estou estudando me tornar engenheira de software.
 
 ### 📫 Onde me encontrar:        
 <a href="https://seulink.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
