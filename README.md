@@ -9,7 +9,7 @@
 ### Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java e JavaScript e interesse em desenvolvimento de <br>
-software.Tenho desenvolvido projetos práticos aplicando tecnologias como Spring Boot, HTML, CSS, SQL e APIs REST, <br>
+software. Tenho desenvolvido projetos práticos aplicando tecnologias como Spring Boot, HTML, CSS, SQL e APIs REST, <br>
 buscando sempre utilizar boas práticas de programação e criar soluções organizadas e funcionais. Atualmente, sigo <br>
 aprimorando meus conhecimentos por meio de estudos e projetos pessoais, com o objetivo de iniciar minha carreira na <br>
 área de Tecnologia da Informação.
