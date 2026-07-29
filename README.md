@@ -1,7 +1,6 @@
 <h1 align="center">Olá!👋 me chamo Layara Nobre</h1>
 
-<p align="center">
-  💻 Engenheira de software em formação | 🚀 Apaixonado por tecnologia e inovação
+💻 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Apaixonado por tecnologia e inovação
 </p>
 
 <br>
