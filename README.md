@@ -1,5 +1,4 @@
-<h1 align="center">Olá!👋 me chamo Layara Nobre</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Layara%20Nobre&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Apaixonado por tecnologia e inovação
 </p>
 
@@ -40,17 +39,4 @@ na área de Tecnologia da Informação.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60"/>
-</p>
-
-
-<br>
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Layaranobre&show_icons=true&theme=tokyonight" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layaranobre&layout=compact&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
