@@ -7,10 +7,10 @@
 ### Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java e JavaScript e interesse em desenvolvimento de <br>
-software. Tenho desenvolvido projetos práticos aplicando tecnologias como Spring Boot, HTML, CSS, SQL e APIs REST, <br>
-buscando sempre utilizar boas práticas de programação e criar soluções organizadas e funcionais. Atualmente, sigo <br>
-aprimorando meus conhecimentos por meio de estudos e projetos pessoais, com o objetivo de iniciar minha carreira <br>
-na área de Tecnologia da Informação.
+software. Tenho desenvolvido projetos práticos aplicando tecnologias como Spring Boot, HTML, CSS, SQL e APIs REST, e <br>
+outras tecnologias, buscando sempre utilizar boas práticas de programação e criar soluções organizadas e funcionais. <br>
+Atualmente, sigo aprimorando meus conhecimentos por meio de estudos e projetos pessoais, com o objetivo de iniciar  <br>
+minha carreira na área de Tecnologia da Informação.
 
 ### 📫 Onde me encontrar:        
 <a href="https://seulink.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -39,4 +39,11 @@ na área de Tecnologia da Informação.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/eclipse/eclipse-original.svg" width="60" height="60"/>
+  
 </p>
+
+
+
+
