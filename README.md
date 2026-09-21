@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Layara%20Nobre&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=18&pause=1200&color=ffffff&center=true&vCenter=true&width=700&lines=Futura+Engenheira+de+Software...;Desenvolvedora+Fullstack..." />
+</p>
 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Apaixonado por tecnologia e inovação
 </p>
 
